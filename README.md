@@ -1,2 +1,9 @@
 # quiz_api
-Backend of my first webapp project with flutter and flask
+
+퀴즈 웹 앱입니다.
+
+## 
+
+플라스크를 이용해 Backend를 개발하였습니다.
+민감정보들은 제외하여 커밋하였습니다.
+- DB프로퍼티
