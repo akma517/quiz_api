@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# DBproperti
+config/DatabaseConfig.py
+
 # Distribution / packaging
 .Python
 build/
